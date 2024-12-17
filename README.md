@@ -45,9 +45,8 @@ python3 main.py
 
 ## Apresentação
 
-https://youtu.be/ucgQaM7l70A
 
-Vídeo de apresentação: 
+Vídeo de apresentação: https://youtu.be/ucgQaM7l70A
 
 ## Desenvolvedores
 
